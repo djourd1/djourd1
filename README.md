@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Damien Jourdain (@djourd1)
-- 👀 I’m interested in econometrics (using R, Python and more recently Julia)
-- 🌱 I’m currently learning Julia
+- 👀 I’m interested in econometrics (using R, Python)
 
 <!---
 djourd1/djourd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
